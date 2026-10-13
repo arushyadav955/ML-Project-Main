@@ -227,13 +227,3 @@ For production deployment, consider:
 >
 > **Region**: Geographical region identifier
 
-
-
-
-<<<<<<< HEAD
-This project is open source and available under the [<u>MIT
-License</u>](https://claude.ai/chat/LICENSE).
-
-
-=======
->>>>>>> a3cd8d76ff691b54239be5bb192a6e494721696f
